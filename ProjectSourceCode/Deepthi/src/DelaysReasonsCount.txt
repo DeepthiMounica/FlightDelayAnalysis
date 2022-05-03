@@ -1,0 +1,4 @@
+Carrier-Delay 5645090
+NAS-Delay 6110156
+Security-Delay 40299
+Weather-Delay 626383

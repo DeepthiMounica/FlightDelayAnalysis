@@ -1,0 +1,22 @@
+Pinnacle Airlines Inc.	30.9989073
+American Airlines Inc.	30.21648163
+Alaska Airlines Inc.	28.67561337
+JetBlue Airways	31.27858027
+Continental Airlines Inc.	28.68816225
+Delta Airlines Inc.	29.48428242
+ExpressJet Airlines Inc.	31.26910073
+Frontier Airlines Inc.	30.35630654
+AirTran Airways	29.2231252
+Allegiant Air	30.30233466
+Hawaiian Airlines Inc.	26.54041511
+American Eagle Airlines Inc.	30.65426311
+Spirit Airlines	31.03779333
+PSA Airlines Inc.	30.30358045
+SkyWest Airlines Inc.	30.42129088
+United Airlines Inc.	30.71748591
+US Airways Inc	29.01001448
+Virgin America	30.73200748
+Southwest Airlines Co.	29.71832155
+ExpressJet Airlines Inc.	30.121437
+Mesa Airlines Inc.	30.45123342
+Republic Airline	31.0321857
