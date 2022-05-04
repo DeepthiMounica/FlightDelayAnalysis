@@ -1,0 +1,22 @@
+Endeavor Air Inc.	11.98822638
+American Airlines Inc.	10.86880317
+Alaska Airlines Inc.	13.3072098
+JetBlue Airways	10.82110856
+Continental Air Lines Inc.	14.63682395
+Delta Air Lines Inc.	11.54212851
+ExpressJet Airlines LLC	10.04606777
+Frontier Airlines Inc.	13.06328723
+AirTran Airways Corporation	12.01097596
+Allegiant Air	8.455050068
+Hawaiian Airlines Inc.	0.5799568449
+Envoy Air	10.85075351
+Spirit Air Lines	17.56776165
+PSA Airlines Inc.	10.10425448
+SkyWest Airlines Inc.	9.74112149
+United Air Lines Inc.	12.2617523
+US Airways Inc.	13.44364516
+Virgin America	10.89081631
+Southwest Airlines Co.	5.63110076
+ExpressJet Airlines Inc.	11.340337
+Mesa Airlines Inc.	8.663422707
+Republic Airline	15.01477357
