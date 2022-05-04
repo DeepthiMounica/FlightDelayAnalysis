@@ -1,5 +1,9 @@
 # Capstone Project: FlightDelayAnalysis
 
+Team 2:
+Fabjola Kasaj
+Mandalaparty Deepthi Mounica
+Anjaneya Chowdary Kamepalli
 
 
 # Drive link for Dataset 
